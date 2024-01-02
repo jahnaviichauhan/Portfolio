@@ -1,2 +1,4 @@
 # Portfolio
-This repository contains data I need to create my portfolio
+This repository contains data for my portfolio
+
+Portfolio created.
